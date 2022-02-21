@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
 body {
     background-color: hsl(212, 45%, 89%);
     box-sizing: border-box;
@@ -7,8 +9,8 @@ body {
 
 h1 {
     color: black;
-    font-style: italic;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
     text-align: center;
 }
 
@@ -38,8 +40,9 @@ img {
 
 .card p {
     font-weight: bolder;
-    font-size: 1.2em;
-    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
     margin-bottom: 0.6em;
     margin-top: 0.6em;
 }
@@ -50,4 +53,6 @@ img {
     font-size: small;
     color: hsl(220, 15%, 55%);
     margin-top: 0.5em;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
 }

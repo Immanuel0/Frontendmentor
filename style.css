@@ -1,0 +1,53 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    color: black;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    position: absolute;
+    flex-flow: column;
+    align-items: center;
+    width: 16em;
+    overflow: hidden;
+    background: whitesmoke;
+    border-radius: 10px;
+    height: 25em;
+    top: calc(50% - 13em);
+    left: calc(50% - 8em);
+    text-align: center;
+   
+
+}
+
+img {
+    width: 14em;
+    height: 14em;
+    border-radius: 10px;
+    margin: 1em;
+}
+
+.card p {
+    font-weight: bolder;
+    font-size: 1.2em;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0.6em;
+    margin-top: 0.6em;
+}
+
+.card span {
+    font-weight: lighter;
+    margin: 2em;
+    font-size: small;
+    color: hsl(220, 15%, 55%);
+    margin-top: 0.5em;
+}

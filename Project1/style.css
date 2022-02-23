@@ -41,7 +41,7 @@ img {
 .card p {
     font-weight: bolder;
     font-size: 15px;
-    text-shadow: 2px 2px;
+    text-shadow: 1px 1px;
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     margin-bottom: 0.6em;

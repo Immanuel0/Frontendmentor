@@ -24,7 +24,7 @@ align-items: center;
 }
 
 .logo {
-    background-color: rgb(25, 42, 50);
+    background-color: rgb(20, 42, 50);
     background-image: url(./assets/logo.svg);
     background-repeat: no-repeat;
     height: 30px;

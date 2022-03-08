@@ -89,26 +89,28 @@ p {
     margin-right: 15px;
 }
 
-.sup{
-    max-width: 50px;
-    max-height: 50px;
-}
-
-.tea{
+.sup {
     max-width: 50px;
     max-height: 50px;
     margin-top: 25px;
 }
 
-.karm{
+.tea {
     max-width: 50px;
     max-height: 50px;
     margin-top: 25px;
 }
 
-.lator{
+.karm {
     max-width: 50px;
     max-height: 50px;
+    margin-top: 25px;
+}
+
+.lator {
+    max-width: 50px;
+    max-height: 50px;
+    margin-top: 25px;
 }
 
 .vis {

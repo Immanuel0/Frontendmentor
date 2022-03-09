@@ -4,6 +4,7 @@ body {
 
 .headings {
     text-align: center;
+    min-width: max-content;
 }
 
 h1 {
@@ -47,7 +48,6 @@ p {
 
 .box {
     background-color: rgb(255, 255, 255);
-    flex-shrink: 0;
     width: 15em;
     height: 180px;
     border-radius: 5px;  
@@ -72,7 +72,6 @@ p {
 
 .box3 {
     background-color: rgb(255, 255, 255);
-    flex-shrink: 0;
     width: 15em;
     height: 180px;
     border-radius: 5px;  
